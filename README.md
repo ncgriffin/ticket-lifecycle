@@ -54,7 +54,7 @@
 
 <h5> Verification</h5>
 
-- Validate James's identity and admin rights approval.
+
 
 <h5> Access Control Configuration:</h5>
 
