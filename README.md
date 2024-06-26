@@ -10,37 +10,23 @@
 
 - <a href="https://github.com/ncgriffin/osticket-prereqs"> osTicket: Prerequisites and Installation </a>
 
-<h2>Key Objectives</h2>
-
-<h4>Mastering Ticket Resolution</h4>
-
-- Understand the complete lifecycle of a ticket within osTicket, from the initial intake to its successful resolution.
-
-<h4>Efficient Troubleshooting Techniques</h4>
-
-- Explore and implement troubleshooting strategies for common IT issues, ensuring quick and effective problem-solving.
-
-<h4>Enhancing User Satisfaction</h4>
-
-- Learn how to provide timely and effective support to end-users, fostering a positive experience and minimizing downtime.
-
-<h4>Building a Knowledge Base</h4>
-
-- Develop a comprehensive knowledge base that documents common issues and their resolutions, empowering both support teams and end-users.
-
-
-
 <h2>Environments and Technologies Used</h2>
 
 - osTicket
-- Microsoft Azure (Virtual Machines)
+- Microsoft Azure (Virtual Machines/Compute)
 - Remote Desktop
-- Active Directory Domain Services
 
-<h2>Operating Systems Used </h2>
 
-- Windows Server 2022
+<h2>Operating Systems Used</h2>
+
 - Windows 10 (21H2)
+
+<h2>Ticket Lifecycle Stages</h2>
+
+- Intake
+- Assignment and Communication
+- Working the Issue
+- Resolution
 
 
 
