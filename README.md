@@ -1,7 +1,7 @@
 <img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
 </p>
 
-<h1> osTicket: Ticket Resolution and Troubleshooting </h1>
+<h1> osTicket: Ticket Lifecycle Examples </h1>
 
 
 <p>This tutorial outlines the lifecycle of a ticket from intake to resolution within the open-source help desk ticketing system osTicket. We will cover the ticket lifecycle from initiation to resolution and develop effective troubleshooting strategies for common issues. This project equips IT professionals, help desk agents, and support teams to handle challenges smoothly, ensuring a seamless support experience for end-users.</p>
