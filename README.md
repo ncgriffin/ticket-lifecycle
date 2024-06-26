@@ -34,18 +34,18 @@
 
 <h3>Scenario 1: Password Reset</h3>
 
-<p><strong>User:</strong> James Holden</p>
+<p><strong>User:</strong> Karen Jones</p>
 
 <h4>Background:</h4>
 
 
 
-<p>James Holden, a senior software developer, has successfully obtained approval for elevated administrative rights. As the IT administrator, your task is to grant James the necessary permissions while ensuring a secure and controlled activation process.
+<p>Karen Jones, a marketing department employee, forgot her recently changed password and failed to reset it using the 'Forgot Password' function due to unrecognized security answers. She then noticed she's been using an outdated email address. As the IT administrator, your responsibility is to verify identity, reset the password, and guide the user to prevent future issues. 
 </p>
 
 <br>
 
-<img width="593" alt="James Holden first ticket" src="https://github.com/kirkgacias/osticket-ticket-resolution/assets/158519921/a0e9bf33-4860-4dbf-bd95-78abbf24e23e">
+<img width="593" alt="Karen Jones first ticket" src="https://imgur.com/TDKwdK4.png">
 
 <br>
 <br>
