@@ -49,6 +49,7 @@
 
 <br>
 <br>
+<p><strong>.</strong></p>
 
 <h3>Assignment and Communication:</h3>
 
@@ -56,7 +57,6 @@ Here we are able to see the ticket has been issued to IT Support Technician, Nic
 
 <img width="650" alt="rdp" src="https://imgur.com/JeSc0iO.png">
 
-<p><strong>.</strong></p>
 <p><strong>.</strong></p>
 
 <p><strong>Resolution & Closure:</strong></p>
@@ -73,80 +73,30 @@ Here we are able to see the ticket has been issued to IT Support Technician, Nic
 <h4>Background:</h4>
 
 
-<p>An unexpected outage of the ERP software occurred, disrupting manufacturing and sales operations. Cliff Tucker, an Account Executive,submits a ticket through osTicket, reporting a system error affecting users, indicating potential server overload or network issues. The IT technician must quickly diagnose the root cause of the outage, and coordinate with the relevant IT teams to resolve it.
+<p>An unexpected outage of the ERP software occurred, disrupting manufacturing and sales operations. Cliff Tucker, an Account Executive, submits a ticket through osTicket, eporting a system error affecting users; indicating potential server overload or network issues. The IT technician must quickly diagnose the root cause of the outage, and coordinate with the relevant IT teams to resolve it.
 
 </p>
 
 <br>
 
-<img width="593" alt="Camina ticket" src="https://github.com/kirkgacias/osticket-ticket-resolution/assets/158519921/da8ff8c8-c719-4948-97bf-d0c98f192d32">
+<img width="593" alt="Cliff ticket" src="https://imgur.com/dQX0lFx.png">
 
 <br>
 <br>
 
-<h3>Approach to Resolution:</h3>
-
-<h5> Initial Assessment:</h5>
-
-- Engage in a threaded discussion to gather more information about the specific performance issues Camina is encountering.
-- Request details such as recent software installations, background processes, and any error messages she might have encountered
-
-<img width="592" alt="reply" src="https://github.com/kirkgacias/osticket-ticket-resolution/assets/158519921/c4f43105-eee5-4424-8c15-bd366b31b75f">
+<h3>Assignment & Communication:</h3>
 
 
-<h5> Remote Diagnosis:</h5>
+- Engage in a threaded discussion to gather more information about the specific issues Cliff and other users are encountering.
 
-- Utilize a remote desktop connection to conduct a  diagnosis of Camina's workstation.
-
-<h3> Specific Problem Identified:</h3>
-
-<p>Camina Drummer's workstation is experiencing slow performance and low memory warnings mainly due to not having enough RAM for her demanding marketing applications. These include graphic design and video editing software, along with many browser tabs open at once. A lack of regular cleanup, like deleting temporary files and optimizing disk space, has also made the system slower over time.</p>
-
-<h3> Resolution Steps:</h3>
-
-- Go to add or remove programs and delete any unnecessary applications
-
-<img width="400" alt="add or remove" src="https://github.com/kirkgacias/osticket-ticket-resolution/assets/158519921/f01f5105-360a-4262-9481-3b7fff5b7a2f">
+<img width="615" alt="reply" src="https://imgur.com/Y5muqYN.png">
 
 <p><strong>.</strong></p>
-<p><strong>.</strong></p>
-
-
-<p><strong>Check Task Manager to identify resource-intensive processes, unnecessary apps at startup, and potential bottlenecks affecting system performance.</strong></p>
-
-- Empty the recycling bin to free up some disk space
-
-<img width="500" alt="recycle" src="https://github.com/kirkgacias/osticket-ticket-resolution/assets/158519921/0af4e499-0f29-4479-a88d-f12ceeda5867">
-
-
-<p><strong>.</strong></p>
-<p><strong>.</strong></p>
-
-<p><strong>Open the Disk Cleanup application and perform a cleanup.</strong></p>
-
-<img width="500" alt="cleanup" src="https://github.com/kirkgacias/osticket-ticket-resolution/assets/158519921/7397a276-11ec-44ae-be1e-fcf6de194f2b">
-
-<p><strong>.</strong></p>
-<p><strong>.</strong></p>
-
-<p><strong>Go to Windows Features and turn off features not needed by the user</strong></p>
-
-- After performing the tasks, diagnose the performance of the workstation 
-
-<img width="500" alt="on or off" src="https://github.com/kirkgacias/osticket-ticket-resolution/assets/158519921/6c301535-1b34-4c9b-a6e3-20d10207331a">
-
 
 <h5>Documentation & Closure:</h5>
 
-- Inform Camina through osTicket of the initial assessment findings.
-- Document the troubleshooting steps taken within osTicket, detailing the date and specifics of each action.
-- Close the ticket within osTicket when Camina confirms the satisfactory resolution of the slow system performance issue or when the case is deemed resolved based on the follow-up assessments.
-
-<img width="591" alt="camina closed" src="https://github.com/kirkgacias/osticket-ticket-resolution/assets/158519921/a43fa5ab-fb7a-4f1e-925c-0a750f806f79">
-
-
-<p><strong>.</strong></p>
-<p><strong>.</strong></p>
+- Document the troubleshooting steps taken within osTicket, detailing the problem and resolution.
+- Close the ticket within osTicket when the case is deemed resolved based on the corrected network error.
 
 <h3>Scenario C: Laptop Camera Not Working on Windows 11</h3>
 
@@ -222,131 +172,7 @@ Here we are able to see the ticket has been issued to IT Support Technician, Nic
 
 <h3>Scenario D: Resolving Email Synchronization Issues</h3>
 
-<p><strong>User:</strong> Amos Burton</p>
 
-<h4>Background:</h4>
-
-
-<p>Amos Burton, a sales executive, submits a ticket via osTicket, reporting that his email is not synchronizing properly across his devices. As the IT help desk agent, your goal is to troubleshoot and resolve the synchronization issue to ensure seamless access to his emails across all platforms.
-
-</p>
-
-<br>
-
-<img width="587" alt="AMOS" src="https://github.com/kirkgacias/osticket-ticket-resolution/assets/158519921/95197f73-b04f-4690-9b39-40fbdcf0f4c1">
-
-
-
-<br>
-<br>
-
-<h3>Approach to Resolution:</h3>
-
-<h5> Initial Assessment:</h5>
-
-- Initiate a detailed conversation with Amos through osTicket, asking for specifics about the devices he uses, the email client or service, and any error messages he has encountered.
-
-<img width="590" alt="amos2" src="https://github.com/kirkgacias/osticket-ticket-resolution/assets/158519921/452bf839-6c6c-4c00-87ff-999229276d30">
-
-- Determine if the issue started after a particular update or change in settings.
-- Establish a remote desktop connection to further diagnose the problem
-
-
-<h3> Specific Problem Identified:</h3>
-
-<p>During the remote diagnosis, it's discovered that Amos's smartphone and tablet are not set to use IMAP for his email account, which is essential for synchronizing emails across multiple devices. Instead, they are configured with POP3, leading to emails being downloaded to a single device and not being accessible on others.
-
-</p>
-
-
-<h3> Resolution Steps:</h3>
-
-- Change the email settings from POP3 to IMAP on both his smartphone and tablet.
-- Ensure that Amos's laptop is also configured to use IMAP for his email account, ensuring consistency across all devices.
-
-![pop_imap](https://github.com/kirkgacias/osticket-ticket-resolution/assets/158519921/e1d1db7e-2804-43f2-8cb2-ca30e652c6d7)
-
-
-<p><strong>Test email synchronization by instructing Amos  to send a test email to himself and check if it appears across all his devices.</strong></p>
-
-<p><strong>.</strong></p>
-<p><strong>.</strong></p>
-
-
-<h5>Documentation & Closure:</h5>
-
-- Document all steps taken to resolve Amos's email synchronization issue within osTicket, including the initial problem identification, communication logs, and the resolution process.
-- Close the ticket within osTicket once Amos confirms the issue is resolved to his satisfaction, ensuring a record of the solution is available for future reference.
-
-<img width="589" alt="Amos3" src="https://github.com/kirkgacias/osticket-ticket-resolution/assets/158519921/5990ad12-8de9-4cdd-811d-3594185700fb">
-
-
-<p><strong>.</strong></p>
-<p><strong>.</strong></p>
-
-<h3>Scenario E: Addressing Printer Connectivity Problems </h3>
-
-<p><strong>User:</strong> Anderson Dawes</p>
-
-<h4>Background:</h4>
-
-
-<p>Anderson Dawes, an account manager, submits a ticket through osTicket, indicating that he cannot connect to the network printer from his laptop. The printer is essential for his role, as he frequently needs to print contracts and reports for clients. As the IT help desk agent, your task is to diagnose and rectify the connectivity problem to restore Anderson's printing capabilities.
-
-</p>
-
-<br>
-
-<img width="589" alt="Anderson ticket1" src="https://github.com/kirkgacias/osticket-ticket-resolution/assets/158519921/11854ae6-f5b5-4fe1-a4be-29cf945b5fbe">
-
-
-
-
-<br>
-<br>
-
-<h3>Approach to Resolution:</h3>
-
-<h5> Initial Assessment:</h5>
-
-- Communicate with Anderson and ask further questions about the problem
-- Establish a remote desktop connection to Anderson’s workstation to further diagnose the issue.
-
-<img width="588" alt="anderson 2" src="https://github.com/kirkgacias/osticket-ticket-resolution/assets/158519921/ab69d01e-3d70-456e-982d-428b2edd182d">
-
-
-<h3> Specific Problem Identified:</h3>
-
-<p>The primary issue hindering Anderson Dawes from connecting to the network printer is an incorrect printer IP address configuration on his laptop. After the recent network upgrade, the IP addresses of several devices, including printers, were changed to accommodate the new networking schema. However, Anderson's laptop retained the old IP address for the printer, leading to failed connection attempts. This misconfiguration is a common oversight following network modifications, especially if devices are manually configured or if the update communication does not reach all users effectively.
-
-
-</p>
-
-
-<h3> Resolution Steps:</h3>
-
-- Update Printer IP Address on Anderson's Laptop
-- This can be done by accessing the printer properties via the Control Panel (or Settings app in Windows 11) and updating the port configuration under the 'Ports' tab to the new IP address. This can be done by accessing the printer properties via the Control Panel (or Settings app in Windows 11) and updating the port configuration under the 'Ports' tab to the new IP address.
-
-<img width="400" alt="printer" src="https://github.com/kirkgacias/osticket-ticket-resolution/assets/158519921/4dbe262a-bd46-4b65-aa6f-6ec1c563fec4">
-
-
-<p><strong>Verify connectivity by attempting to print a test page.</strong></p>
-
-<p><strong>.</strong></p>
-<p><strong>.</strong></p>
-
-
-<h5>Documentation & Closure:</h5>
-
-- Document the steps taken to resolve the issue within osTicket Additionally, update any internal IT documentation to reflect the new network configuration and troubleshooting steps for related issues.
-- Close the ticket once Anderson confirms the issue is resolved. 
-
-<img width="590" alt="printer" src="https://github.com/kirkgacias/osticket-ticket-resolution/assets/158519921/7ee5a170-7cb1-49a3-ba9f-a896f3a58838">
-
-
-<p><strong>.</strong></p>
-<p><strong>.</strong></p>
 
 
 <h2>Final Thoughts and Key Insights</h2>
