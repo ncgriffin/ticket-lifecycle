@@ -32,7 +32,7 @@
 
 <h1>Tickets</h1>
 
-<h3>Scenario A: Granting Admin Rights</h3>
+<h3>Scenario 1: Password Reset</h3>
 
 <p><strong>User:</strong> James Holden</p>
 
