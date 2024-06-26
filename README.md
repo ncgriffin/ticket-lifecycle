@@ -66,14 +66,14 @@ Here we are able to see the ticket has been issued to IT Support Technician, Nic
 <img width="700" alt="3" src="https://imgur.com/1w25bOR.png">
 
 
-<h3>Scenario B: Addressing Slow System Performance </h3>
+<h3>Scenario 2: System Outage Issue </h3>
 
-<p><strong>User:</strong> Camina Drummer</p>
+<p><strong>User:</strong> Cliff Tucker</p>
 
 <h4>Background:</h4>
 
 
-<p>Camina Drummer, a marketing manager, submits a ticket through osTicket, reporting a low memory warning and persistent slow performance on her workstation. As the IT helpdesk agent, your objective is to diagnose and resolve the issue to enhance Camina's overall system responsiveness.
+<p>An unexpected outage of the ERP software occurred, disrupting manufacturing and sales operations. Cliff Tucker, an Account Executive,submits a ticket through osTicket, reporting a system error affecting users, indicating potential server overload or network issues. The IT technician must quickly diagnose the root cause of the outage, and coordinate with the relevant IT teams to resolve it.
 
 </p>
 
