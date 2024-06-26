@@ -10,24 +10,6 @@
 
 - <a href="https://github.com/ncgriffin/osticket-prereqs"> osTicket: Prerequisites and Installation </a>
 
-<h2>Key Objectives</h2>
-
-<h4>Mastering Ticket Resolution</h4>
-
-- Understand the complete lifecycle of a ticket within osTicket, from the initial intake to its successful resolution.
-
-<h4>Efficient Troubleshooting Techniques</h4>
-
-- Explore and implement troubleshooting strategies for common IT issues, ensuring quick and effective problem-solving.
-
-<h4>Enhancing User Satisfaction</h4>
-
-- Learn how to provide timely and effective support to end-users, fostering a positive experience and minimizing downtime.
-
-<h4>Building a Knowledge Base</h4>
-
-- Develop a comprehensive knowledge base that documents common issues and their resolutions, empowering both support teams and end-users.
-
 
 
 <h2>Environments and Technologies Used</h2>
@@ -35,83 +17,57 @@
 - osTicket
 - Microsoft Azure (Virtual Machines)
 - Remote Desktop
-- Active Directory Domain Services
 
 <h2>Operating Systems Used </h2>
 
-- Windows Server 2022
 - Windows 10 (21H2)
 
 
 
 <h1>Tickets</h1>
 
-<h3>Scenario A: Granting Admin Rights</h3>
+<h3>Scenario 1: Password Reset</h3>
 
-<p><strong>User:</strong> James Holden</p>
+<p><strong>User:</strong> Karen Jones</p>
 
 <h4>Background:</h4>
 
 
 
-<p>James Holden, a senior software developer, has successfully obtained approval for elevated administrative rights. As the IT administrator, your task is to grant James the necessary permissions while ensuring a secure and controlled activation process.
+<p>Karen Jones, a marketing department employee, forgot her recently changed password and failed to reset it using the 'Forgot Password' function due to unrecognized security answers. She then noticed she's been using an outdated email address. As the IT administrator, your responsibility is to verify identity, reset the password, and guide the user to prevent future issues. 
 </p>
 
 <br>
 
-<img width="593" alt="James Holden first ticket" src="https://github.com/kirkgacias/osticket-ticket-resolution/assets/158519921/a0e9bf33-4860-4dbf-bd95-78abbf24e23e">
+<img width="593" alt="Karen Jones first ticket" src="https://imgur.com/TDKwdK4.png">
 
 <br>
 <br>
 
-<h3>Approach to Resolution:</h3>
+<h3>Assignment and Communication:</h3>
 
-<h5> Verification</h5>
+Here we are able to see the ticket has been issued to IT Support Technician, Nick Griffin, and exchange between him and Karen. 
 
-- Validate James's identity and admin rights approval.
-
-<h5> Access Control Configuration:</h5>
-
-- Once verification is done, modify James's user profile and assign the appropriate administrative privileges.
-- Ensure that his machine allows him remote access
-
-<img width="300" alt="rdp" src="https://github.com/kirkgacias/osticket-ticket-resolution/assets/158519921/84e3c864-1470-4f0c-af22-3135d8694dee">
+<img width="650" alt="rdp" src="https://imgur.com/JeSc0iO.png">
 
 <p><strong>.</strong></p>
 <p><strong>.</strong></p>
 
-<p><strong>Configure specific permissions based on James's approved request, such as adding him to the Remote Desktop Users Group</strong></p>
+<p><strong>Resolution & Closure:</strong></p>
 
-<img width="300" alt="3" src="https://github.com/kirkgacias/osticket-ticket-resolution/assets/158519921/5a6d9283-55be-4dcd-b231-00f24f59a361">
+- Document the completion of the task in osTicket, close the ticket
 
-<p><strong>.</strong></p>
-<p><strong>.</strong></p>
-
-<h5>Communication:</h5>
-
-- Inform James that his admin rights have been granted successfully.
-- Include a summary of the specific permissions he now holds and any relevant guidelines for responsible use.
-
-<h5>Documentation & Closure:</h5>
-
-- Document the completion of the admin rights activation in osTicket.
--Close the ticket, indicating that the task has been completed, and provide documentation for future audits or inquiries.
-
-<img width="592" alt="Done w james " src="https://github.com/kirkgacias/osticket-ticket-resolution/assets/158519921/ceafdb4f-46bf-4e2a-abab-3368e586fdb6">
+<img width="700" alt="3" src="https://imgur.com/1w25bOR.png">
 
 
-<p><strong>.</strong></p>
-<p><strong>.</strong></p>
+<h3>Scenario 2: System Outage Issue </h3>
 
-<h3>Scenario B: Addressing Slow System Performance </h3>
-
-<p><strong>User:</strong> Camina Drummer</p>
+<p><strong>User:</strong> Cliff Tucker</p>
 
 <h4>Background:</h4>
 
 
-<p>Camina Drummer, a marketing manager, submits a ticket through osTicket, reporting a low memory warning and persistent slow performance on her workstation. As the IT helpdesk agent, your objective is to diagnose and resolve the issue to enhance Camina's overall system responsiveness.
-
+<p>An unexpected outage of the ERP software occurred, disrupting manufacturing and sales operations. Cliff Tucker, an Account Executive,submits a ticket through osTicket, reporting a system error affecting users, indicating potential server overload or network issues. The IT technician must quickly diagnose the root cause of the outage, and coordinate with the relevant IT teams to resolve it.
 </p>
 
 <br>
