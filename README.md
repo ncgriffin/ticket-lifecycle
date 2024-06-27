@@ -43,25 +43,20 @@
 <p>Karen Jones, a marketing department employee, forgot her recently changed password and failed to reset it using the 'Forgot Password' function due to unrecognized security answers. She then noticed she's been using an outdated email address. As the IT administrator, your responsibility is to verify identity, reset the password, and guide the user to prevent future issues. 
 </p>
 
-<br>
 
 <img width="593" alt="Karen Jones first ticket" src="https://imgur.com/TDKwdK4.png">
 
-<br>
-<br>
-<p><strong>.</strong></p>
-
 <h3>Assignment and Communication:</h3>
 
-Here we are able to see the ticket has been issued to IT Support Technician, Nick Griffin, and exchange between him and Karen. 
+Here we are able to see the ticket has been issued to IT Support Technician, Nick Griffin, and the exchange between him and Karen. 
 
 <img width="650" alt="rdp" src="https://imgur.com/JeSc0iO.png">
 
-<p><strong>.</strong></p>
+
 
 <p><strong>Resolution & Closure:</strong></p>
 
-- Document the completion of the task in osTicket, close the ticket
+- Document the completion of the task in osTicket, close the ticket.
 
 <img width="700" alt="3" src="https://imgur.com/1w25bOR.png">
 
@@ -81,8 +76,6 @@ Here we are able to see the ticket has been issued to IT Support Technician, Nic
 
 <img width="593" alt="Cliff ticket" src="https://imgur.com/dQX0lFx.png">
 
-<br>
-<br>
 
 <h3>Assignment & Communication:</h3>
 
@@ -91,94 +84,54 @@ Here we are able to see the ticket has been issued to IT Support Technician, Nic
 
 <img width="615" alt="reply" src="https://imgur.com/Y5muqYN.png">
 
-<p><strong>.</strong></p>
+
 
 <h5>Documentation & Closure:</h5>
 
 - Document the troubleshooting steps taken within osTicket, detailing the problem and resolution.
 - Close the ticket within osTicket when the case is deemed resolved based on the corrected network error.
 
-<h3>Scenario C: Laptop Camera Not Working on Windows 11</h3>
+<h3>Scenario 3: Equipment Request for New Hires</h3>
 
-<p><strong>User:</strong> Alex Kamal</p>
+<p><strong>User:</strong> Kyle Washington</p>
 
 <h4>Background:</h4>
 
 
-<p>Alex Kamal, a sales representative, submits a ticket through osTicket, reporting that the integrated camera on his laptop is not functioning properly after upgrading to Windows 11. Alex relies on video calls for client meetings and needs a prompt resolution to ensure uninterrupted communication.
+<p>The HR department is preparing for the arrival of three new hires in the marketing team, scheduled to start next Monday. The responsibility of the help desk technician is to source and prepare the requested equipment.
 
 </p>
 
 <br>
 
-<img width="593" alt="Screenshot 2024-02-16 094853" src="https://github.com/kirkgacias/osticket-ticket-resolution/assets/158519921/55359757-dda2-4507-9ed7-ee0aed93258a">
+<img width="593" alt="Screenshot 2024-02-16 094853" src="https://imgur.com/RFyZCFZ.png">
 
-
-<br>
-<br>
 
 <h3>Approach to Resolution:</h3>
 
-<h5> Initial Assessment:</h5>
-
-- Engage in a threaded discussion within osTicket to gather more information about the issue.
-
-<img width="590" alt="alex k reply" src="https://github.com/kirkgacias/osticket-ticket-resolution/assets/158519921/cd96aaee-84c5-4b0f-a963-8e9275cc6944">
-
-
-<h5> Remote Diagnosis:</h5>
-
-- Access Alex’s laptop through a remote desktop connection
-- Check device manager if the necessary drivers are installed
-
-<br>
-
-<img width="350" alt="devmgmt" src="https://github.com/kirkgacias/osticket-ticket-resolution/assets/158519921/02b38f22-3489-44cd-a912-4d1728676ce6">
-
-
-<h3> Specific Problem Identified:</h3>
-
-<p>Upon conducting a remote diagnostic session with Alex Kamal's laptop, it was discovered that the integrated camera is not recognized by the Windows 11 operating system. This issue seems to stem from outdated camera drivers that are incompatible with Windows 11.
-</p>
-
-<h5> Communication:</h5>
-
-- Inform Alex through osTicket that the initial assessment indicates a potential driver-related issue with the camera after the Windows 11 upgrade
-
-<img width="592" alt="llll" src="https://github.com/kirkgacias/osticket-ticket-resolution/assets/158519921/00926f92-e76d-43c2-ace9-1ca45090e7a6">
-
+- Ensure all equipment is fully operated and configured with the necessary software and network access prior to the new hires' arrival. 
 
 
 <h3> Resolution Steps:</h3>
 
-- Download the camera drivers from the manufacturers website and install the drivers manually
-- Reboot the system after making the changes to ensure proper implementation.
+- Confirm the availability of all items in inventory and schedule a setup date.
+- Prepare equipment, perform a final check to ensure connectivity and functionality. 
 
-<img width="592" alt="bigboi" src="https://github.com/kirkgacias/osticket-ticket-resolution/assets/158519921/fe5a3910-a379-4ea5-9c23-93f661e18789">
+
 
 
 <h5>Documentation & Closure:</h5>
 
-- Document the troubleshooting steps taken within osTicket, detailing the date and specifics of each action.
-
-- Document the troubleshooting steps taken within osTicket, detailing the date and specifics of each action.
-- Close the ticket within osTicket when Alex confirms the satisfactory resolution of the laptop camera issue
-
-<img width="592" alt="closed" src="https://github.com/kirkgacias/osticket-ticket-resolution/assets/158519921/36db4069-fbed-4628-988a-066745fc7115">
-
-
-<p><strong>.</strong></p>
-<p><strong>.</strong></p>
-
-<h3>Scenario D: Resolving Email Synchronization Issues</h3>
-
-
+- Document the steps taken within osTicket, detailing the date and specifics of each action.
+- Technician remains available for any adjustments or additional needs during the new hires' first week.
+- Close the ticket within osTicket when all actions are completed. 
+<img width="650" alt="closed" src="https://imgur.com/9jNVwZl.png">
 
 
 <h2>Final Thoughts and Key Insights</h2>
 
 <p>
-This project serves as an essential guide for IT help desk agents and support teams, offering in-depth scenarios from granting administrative rights to resolving complex email synchronization issues. It highlights the critical role of a structured approach in IT troubleshooting, emphasizing key insights:</p>
+This project is a crucial resource for IT help desk agents and support teams. It offers detailed scenarios, from handling password reset issues and resolving system outages to onboarding new members with equipment. It emphasizes the importance of a structured approach to IT troubleshooting.</p>
 
 - Structured Problem-Solving: Importance of a step-by-step approach from problem identification to solution documentation.
 - User-Centric Communication: Keeping users informed is essential. Keeping users updated is key to trust and a positive experience.
