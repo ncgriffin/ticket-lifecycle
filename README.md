@@ -128,17 +128,17 @@ Here we are able to see the ticket has been issued to IT Support Technician, Nic
 <img width="650" alt="closed" src="https://imgur.com/9jNVwZl.png">
 
 
-<h2>Final Thoughts and Key Insights</h2>
+<h2>Key Insights</h2>
 
 <p>
 This project is a crucial resource for IT help desk agents and support teams. It offers detailed scenarios, from handling password reset issues and resolving system outages to onboarding new members with equipment. It emphasizes the importance of a structured approach to IT troubleshooting.</p>
 
-- Structured Problem-Solving: Importance of a step-by-step approach from problem identification to solution documentation.
-- User-Centric Communication: Keeping users informed is essential. Keeping users updated is key to trust and a positive experience.
-- Adaptability and Continuous Learning: The need for IT professionals to stay adaptable and continuously learn to tackle a wide range of issues.
-- Documentation and Knowledge Sharing: Essential for building a knowledge base that facilitates quicker future resolutions.
+- Methodical Problem-Solving: Stresses the significance of a systematic process from diagnosing issues to recording solutions.
+- User-Focused Communication: Keeping users updated is crucial for building trust and ensuring a positive experience.
+- Flexibility and Ongoing Education: Highlights the necessity for IT professionals to remain flexible and continually update their skills to address diverse challenges.
+- Documentation and Knowledge Sharing: Crucial for creating a knowledge base that enables faster future problem-solving.
 
-<p>These points highlight the essentials of effective IT troubleshooting: methodical problem-solving, clear communication, adaptability, and thorough documentation.</p>
+<p>These points emphasize the key elements of successful IT troubleshooting: systematic problem-solving, transparent communication, flexibility, and comprehensive documentation..</p>
 
 <h1>Thank you! &#127881; </h1>
 
