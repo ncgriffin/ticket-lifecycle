@@ -4,7 +4,7 @@
 <h1> osTicket: Ticket Lifecycle Examples </h1>
 
 
-<p>This tutorial outlines the lifecycle of a ticket from intake to resolution within the open-source help desk ticketing system osTicket. We will cover the ticket lifecycle from initiation to resolution and develop effective troubleshooting strategies for common issues. This project equips IT professionals, help desk agents, and support teams to handle challenges smoothly, ensuring a seamless support experience for end-users.</p>
+<p>This project provides a comprehensive tutorial on managing the lifecycle of support tickets using the osTicket system. It covers various scenarios such as password resets, system outages, and equipment requests for new hires. The project is designed to help IT professionals and support teams develop effective troubleshooting strategies, emphasizing systematic problem-solving, user-focused communication, flexibility, and thorough documentation to ensure a seamless support experience.</p>
 
 <h2>Prerequisites</h2>
 
